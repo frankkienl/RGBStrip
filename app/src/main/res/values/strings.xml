@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RGBStrip</string>
+    <string name="ledstrip">Ledstrip</string>
+    <string name="ip">ip adres van ledstrip-controller</string>
+    <string name="default_ip">192.168.1.44:8080</string>
+    <string name="edit_ip">wijzig ip</string>
+</resources>
